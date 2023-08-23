@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeManagement
 build_property.RootNamespace = EmployeeManagement
-build_property.ProjectDir = C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagement\
+build_property.ProjectDir = C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagement\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagement
+build_property.MSBuildProjectDirectory = C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/App.razor]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Pages/EmployeeList.razor]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Pages/EmployeeList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/_Imports.razor]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Shared/MainLayout.razor]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-q1aod8t469
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Shared/NavMenu.razor]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gu6h5vnoip
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Pages/Error.cshtml]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Pages/_Host.cshtml]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zwee2/Desktop/Blazor/BlazorTutorial/EmployeeManagement/Pages/_Layout.cshtml]
+[C:/Users/zwee2/Desktop/BlazorEmployeeManagement/EmployeeManagement/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

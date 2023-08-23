@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5fwX48dg+wAiEFUeyyLaIYOd3vcWkzQFfQ49nIY9Sr8=",
+  "Hash": "16yE4Sb4LqsT5Sw6TP2xDbUPu2Xv5FtBJa3SAL8KTmE=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EmployeeManagement\\wwwroot",
       "Source": "EmployeeManagement",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "EmployeeManagement.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmployeeManagement.styles.css"
+      "OriginalItemSpec": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmployeeManagement.styles.css"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "EmployeeManagement.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,78 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\images\\john.png",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/images/john.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\john.png"
+    },
+    {
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\images\\mary.png",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/images/mary.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\mary.png"
+    },
+    {
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\images\\sam.jpg",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/images/sam.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\sam.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\images\\sara.png",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/images/sara.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\sara.png"
+    },
+    {
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.ico",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

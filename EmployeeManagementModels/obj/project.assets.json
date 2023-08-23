@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+      "projectUniqueName": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
       "projectName": "EmployeeManagementModels",
-      "projectPath": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+      "projectPath": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
       "packagesPath": "C:\\Users\\zwee2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwee2\\Desktop\\Blazor\\BlazorTutorial\\EmployeeManagementModels\\obj\\",
+      "outputPath": "C:\\Users\\zwee2\\Desktop\\BlazorEmployeeManagement\\EmployeeManagementModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zwee2\\AppData\\Roaming\\NuGet\\NuGet.Config",

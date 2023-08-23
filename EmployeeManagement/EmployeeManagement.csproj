@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\css\images\john.png" />
+    <None Include="wwwroot\css\images\mary.png" />
+    <None Include="wwwroot\css\images\sam.jpg" />
+    <None Include="wwwroot\css\images\sara.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\EmployeeManagementModels\EmployeeManagementModels.csproj" />
   </ItemGroup>
 

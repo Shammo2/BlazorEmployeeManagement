@@ -14,7 +14,7 @@ namespace EmployeeManagementModels
         public string Email { get; set; }   
         public DateTime DOB { get; set; }
         public Gender Gender { get; set; }      
-        public Department Department { get; set; }  
+        public int DepartmentID { get; set; }  
         public string PhotoPath { get; set; }
 
     }

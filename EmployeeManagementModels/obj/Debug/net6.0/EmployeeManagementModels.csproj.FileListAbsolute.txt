@@ -10,3 +10,15 @@ C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagementModels\bin\Debug\
 C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.dll
 C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagementModels\obj\Debug\net6.0\ref\EmployeeManagementModels.dll
 C:\Users\zwee2\Desktop\Blazor\BlazorTutorial\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.pdb
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\bin\Debug\net6.0\EmployeeManagementModels.deps.json
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\bin\Debug\net6.0\EmployeeManagementModels.dll
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\bin\Debug\net6.0\ref\EmployeeManagementModels.dll
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\bin\Debug\net6.0\EmployeeManagementModels.pdb
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.csproj.AssemblyReference.cache
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.AssemblyInfoInputs.cache
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.AssemblyInfo.cs
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.dll
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\ref\EmployeeManagementModels.dll
+C:\Users\zwee2\Desktop\BlazorEmployeeManagement\EmployeeManagementModels\obj\Debug\net6.0\EmployeeManagementModels.pdb
